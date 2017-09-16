@@ -1,6 +1,6 @@
 # A wireless data logger with GSM connectivity and Bluetooth interface between sensors
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=bl9zCWa9wFY)
+<iframe width="854" height="480" src="https://www.youtube.com/embed/bl9zCWa9wFY" frameborder="0" allowfullscreen></iframe>
 
 ## Summary
 
