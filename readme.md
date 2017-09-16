@@ -1,5 +1,7 @@
 # A wireless data logger with GSM connectivity and Bluetooth interface between sensors
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=bl9zCWa9wFY)
+
 ## Summary
 
 This dashboard is a Meteor application with server-side authentication, MongoDB database, and client-side rendering with React and React Router.
