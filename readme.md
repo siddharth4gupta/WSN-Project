@@ -14,7 +14,7 @@ This web application is developed as part of a course project in Dr. Janise McNa
 
 [Keerthiraj Nagaraj](https://www.linkedin.com/in/keerthirajnagaraj/) - keerthi.n250@gmail.com
 
-[Thiago Onofre] - tonofre@ufl.edu
+<u>[Thiago Onofre]</u> - tonofre@ufl.edu
 
 ## Copyright
 
