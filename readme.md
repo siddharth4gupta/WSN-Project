@@ -14,10 +14,10 @@ This web application is developed as part of a course project in Dr. Janise McNa
 
 [Keerthiraj Nagaraj](https://www.linkedin.com/in/keerthirajnagaraj/) - keerthi.n250@gmail.com
 
-<u>[Thiago Onofre]</u> - tonofre@ufl.edu
+<p><a href="https://www.linkedin.com/in/thiago-borba-onofre-047a0a129/">Thiago Onofre</a> - <a href="mailto:tonofre@ufl.edu">tonofre@ufl.edu</a></p>
 
 ## Copyright
 
 ![alt text](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
-This work and the name 'iROAM' is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
