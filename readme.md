@@ -10,11 +10,11 @@ This web application is developed as part of a course project in Dr. Janise McNa
 
 ## Team
 
-[Siddharth Gupta](https://www.linkedin.com/in/siddharth4gupta/) - siddg@ufl.edu
+[Siddharth Gupta](https://www.linkedin.com/in/siddharth4gupta/) 
 
-[Keerthiraj Nagaraj](https://www.linkedin.com/in/keerthirajnagaraj/) - keerthi.n250@gmail.com
+[Keerthiraj Nagaraj](https://www.linkedin.com/in/keerthirajnagaraj/) 
 
-<p><a href="https://www.linkedin.com/in/thiago-borba-onofre-047a0a129/">Thiago Onofre</a> - <a href="mailto:tonofre@ufl.edu">tonofre@ufl.edu</a></p>
+<p><a href="https://www.linkedin.com/in/thiago-borba-onofre-047a0a129/">Thiago Onofre</a>
 
 ## Copyright
 
